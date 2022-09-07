@@ -1,0 +1,16 @@
+1.	EPA Toxic Substances Control Act Chemical Substance Inventory.
+2.	Djoumbou Feunang, Y., et al., ClassyFire: automated chemical classification with a comprehensive, computable taxonomy. J Cheminform, 2016. 8: p. 61.
+3.	Glur, C., data.tree: General Purpose Hierarchical Data Structure. R package version 1.0.0. 2020.
+4.	Yu, G., Using ggtree to Visualize Data on Tree-Like Structures. Curr Protoc Bioinformatics, 2020. 69(1): p. e96.
+5.	Yu, G., et al., ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data. Methods in Ecology and Evolution, 2016. 8(1): p. 28-36.
+6.	Wang, L.G., et al., Treeio: An R Package for Phylogenetic Tree Input and Output with Richly Annotated and Associated Data. Mol Biol Evol, 2020. 37(2): p. 599-603.
+7.	Revell, L.J., phytools: an R package for phylogenetic comparative biology (and other things). Methods in Ecology and Evolution, 2012. 3(2): p. 217-223.
+8.	Paradis, E. and K. Schliep, ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics, 2019. 35(3): p. 526-528.
+9.	Schliep, K., et al., Intertwining phylogenetic trees and networks. Methods in Ecology and Evolution, 2017. 8(10): p. 1212-1220.
+10.	Schliep, K.P., phangorn: phylogenetic analysis in R. Bioinformatics, 2011. 27(4): p. 592-3.
+11.	Pekar, V. and S. Staab. Taxonomy Learning - Factoring the Structure of a Taxonomy into a Semantic Classification Decision. in COLING. 2002.
+12.	Resnik, P., Using information content to evaluate semantic similarity in a taxonomy. Ijcai-95 - Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence, Vols 1 and 2, 1995: p. 448-453.
+13.	Lin, D. An Information-Theoretic Definition of Similarity. in ICML. 1998.
+14.	Jiang, J.J. and D.W. Conrath. Semantic Similarity Based on Corpus Statistics and Lexical Taxonomy. in ROCLING/IJCLCLP. 1997.
+15.	Pesquita, C., et al., Semantic similarity in biomedical ontologies. PLoS Comput Biol, 2009. 5(7): p. e1000443.
+16.	Gu, Z., R. Eils, and M. Schlesner, Complex heatmaps reveal patterns and correlations in multidimensional genomic data. Bioinformatics, 2016. 32(18): p. 2847-9.
