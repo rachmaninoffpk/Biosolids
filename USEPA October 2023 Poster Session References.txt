@@ -1,0 +1,11 @@
+
+1.	Richman, T., E. Arnold, and A.J. Williams, Curation of a list of chemicals in biosolids from EPA National Sewage Sludge Surveys & Biennial Review Reports. Scientific Data, 2022. 9(1).
+2.	Biennial Reviews of Sewage Sludge Standards.  [cited 2023 10/25/2023]; Available from: https://www.epa.gov/biosolids/biennial-reviews-sewage-sludge-standards.
+3.	Williams, A.J., et al., The CompTox Chemistry Dashboard: a community data resource for environmental chemistry. J Cheminform, 2017. 9(1): p. 61.
+4.	Mansouri, K., et al., OPERA models for predicting physicochemical properties and environmental fate endpoints. J Cheminform, 2018. 10(1): p. 10.
+5.	Djoumbou Feunang, Y., et al., ClassyFire: automated chemical classification with a comprehensive, computable taxonomy. J Cheminform, 2016. 8: p. 61.
+6.	Pearce, R.G., et al., httk: R Package for High-Throughput Toxicokinetics. J Stat Softw, 2017. 79(4): p. 1-26.
+7.	Density in the Periodic Table of Elements.  September 7, 2023]; Available from: https://pubchem.ncbi.nlm.nih.gov/periodic-table/density/.
+8.	Struijs, J., SimpleTreat 4.0: a model to predict fate and emission of chemicals in wastewater treatment plants. Background report describing the equations, N.I.f.P.H.a.t. Environment, Editor. 2014, RIVM.
+9.	Warren J. Lyman, W.F.R., David H. Rosenblatt, Handbook of Chemical Property Estimation Methods. American Chemical Society. 960.
+
