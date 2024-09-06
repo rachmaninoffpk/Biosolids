@@ -1,0 +1,10 @@
+1.	Pearce, R.G., et al., httk: R Package for High-Throughput Toxicokinetics. J Stat Softw, 2017. 79(4): p. 1-26.
+2.	Feshuk, M., et al., The ToxCast pipeline: updates to curve-fitting approaches and database structure. Front Toxicol, 2023. 5: p. 1275980.
+3.	Sheffield, T., et al., tcplfit2: an R-language general purpose concentration-response modeling package. Bioinformatics, 2022. 38(4): p. 1157-1158.
+4.	Williams, A.J., et al., The CompTox Chemistry Dashboard: a community data resource for environmental chemistry. J Cheminform, 2017. 9(1): p. 61.
+5.	ChemExpo Knowledgebase v 0.1.1. 2023; Available from: https://comptox.epa.gov/chemexpo/.
+6.	Dionisio, K.L., et al., The Chemical and Products Database, a resource for exposure-relevant data on chemicals in consumer products. Sci Data, 2018. 5: p. 180125.
+7.	Olker, J.H., et al., The ECOTOXicology Knowledgebase: A Curated Database of Ecologically Relevant Toxicity Tests to Support Environmental Research and Risk Assessment. Environ Toxicol Chem, 2022. 41(6): p. 1520-1539.
+8.	Patlewicz, G. and I. Shah, Towards systematic read-across using Generalised Read-Across (GenRA). Comput Toxicol, 2023. 25: p. 1-15.
+9.	LaLone, C.A., et al., Editor's Highlight: Sequence Alignment to Predict Across Species Susceptibility (SeqAPASS): A Web-Based Tool for Addressing the Challenges of Cross-Species Extrapolation of Chemical Toxicity. Toxicol Sci, 2016. 153(2): p. 228-45.
+10.	Kruse, P., et al., ctxR: Utilities for Interacting with the 'CTX' APIs. 2024.
