@@ -1,0 +1,44 @@
+
+1.	Isaacs, K.K., et al., The chemical landscape of high-throughput new approach methodologies for exposure. J Expo Sci Environ Epidemiol, 2022. 32(6): p. 820-832.
+2.	ClassyFire chemical classifier webpage. Available from: http://classyfire.wishartlab.com/.
+3.	Djoumbou Feunang, Y., et al., ClassyFire: automated chemical classification with a comprehensive, computable taxonomy. J Cheminform, 2016. 8: p. 61.
+4.	Richman, T., E. Arnold, and A.J. Williams, Curation of a list of chemicals in biosolids from EPA National Sewage Sludge Surveys & Biennial Review Reports. Sci Data, 2022. 9(1): p. 180.
+5.	USGS List of Chemicals. Available from: https://comptox.epa.gov/dashboard/chemical-lists/USGSWATER.
+6.	Sewage Sludge Surveys. Available from: https://www.epa.gov/biosolids/sewage-sludge-surveys.
+7.	Pekar, V. and S. Staab. Taxonomy Learning - Factoring the Structure of a Taxonomy into a Semantic Classification Decision. in COLING. 2002.
+8.	Resnik, P., Using information content to evaluate semantic similarity in a taxonomy. Ijcai-95 - Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence, Vols 1 and 2, 1995: p. 448-453.
+9.	Lin, D. An Information-Theoretic Definition of Similarity. in ICML. 1998.
+10.	Jiang, J.J. and D.W. Conrath. Semantic Similarity Based on Corpus Statistics and Lexical Taxonomy. in ROCLING/IJCLCLP. 1997.
+11.	Pesquita, C., et al., Semantic similarity in biomedical ontologies. PLoS Comput Biol, 2009. 5(7): p. e1000443.
+12.	How to Access the TSCA Inventory. 2023 8/16/2023 [cited 2023 12/4/2023]; Available from: https://www.epa.gov/tsca-inventory/how-access-tsca-inventory.
+13.	Yu, G., Using ggtree to Visualize Data on Tree-Like Structures. Curr Protoc Bioinformatics, 2020. 69(1): p. e96.
+14.	Yu, G., et al., ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data. Methods in Ecology and Evolution, 2016. 8(1): p. 28-36.
+15.	Wang, L.G., et al., Treeio: An R Package for Phylogenetic Tree Input and Output with Richly Annotated and Associated Data. Mol Biol Evol, 2020. 37(2): p. 599-603.
+16.	Revell, L.J., phytools: an R package for phylogenetic comparative biology (and other things). Methods in Ecology and Evolution, 2012. 3(2): p. 217-223.
+17.	Paradis, E. and K. Schliep, ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics, 2019. 35(3): p. 526-528.
+18.	Schliep, K., et al., Intertwining phylogenetic trees and networks. Methods in Ecology and Evolution, 2017. 8(10): p. 1212-1220.
+19.	Schliep, K.P., phangorn: phylogenetic analysis in R. Bioinformatics, 2011. 27(4): p. 592-3.
+20.	Gu, Z., R. Eils, and M. Schlesner, Complex heatmaps reveal patterns and correlations in multidimensional genomic data. Bioinformatics, 2016. 32(18): p. 2847-9.
+21.	Glur, C., data.tree: General Purpose Hierarchical Data Structure. R package version 1.0.0. 2020.
+22.	Basic Information about Biosolids. 1/18/2023 11/06/2023]; Available from: https://www.epa.gov/biosolids/basic-information-about-biosolids#basics.
+23.	2001 National Sewage Sludge Survey Report, U.E.O.o. Water, Editor. 2007: Washington, D.C.
+24.	Targeted National Sewage Sludge Survey 
+Sampling and Analysis Technical Report, U.E.O.o. Water, Editor. 2009: Washington, D.C.
+25.	Biennial Reviews of Sewage Sludge Standards. 12/23/2022 [cited 2023 11/06/2023]; Available from: https://www.epa.gov/biosolids/biennial-reviews-sewage-sludge-standards.
+26.	About the Office of Water. 10/23/2023 [cited 2023 11/06/2023]; Available from: https://www.epa.gov/aboutepa/about-office-water.
+27.	Approach to Biosolids Chemical Risk Assessment and Biosolids Tool.  [cited 2023 11/06/2023]; Available from: https://sab.epa.gov/ords/sab/f?p=100:18:7435319323204:::18:P18_ID:2610.
+28.	Risk Assessment of Pollutants in Biosolids. 3/23/2023 [cited 2023 11/06/2023]; Available from: https://www.epa.gov/biosolids/risk-assessment-pollutants-biosolids#how.
+29.	Williams, A.J., et al., The CompTox Chemistry Dashboard: a community data resource for environmental chemistry. J Cheminform, 2017. 9(1): p. 61.
+30.	Mansouri, K., et al., OPERA models for predicting physicochemical properties and environmental fate endpoints. J Cheminform, 2018. 10(1): p. 10.
+31.	Pearce, R.G., et al., httk: R Package for High-Throughput Toxicokinetics. J Stat Softw, 2017. 79(4): p. 1-26.
+32.	Density in the Periodic Table of Elements.  September 7, 2023]; Available from: https://pubchem.ncbi.nlm.nih.gov/periodic-table/density/.
+33.	Struijs, J., SimpleTreat 4.0: a model to predict fate and emission of chemicals in wastewater treatment plants. Background report describing the equations, N.I.f.P.H.a.t. Environment, Editor. 2014, RIVM.
+34.	Warren J. Lyman, W.F.R., David H. Rosenblatt, Handbook of Chemical Property Estimation Methods. American Chemical Society. 960.
+35.	Feshuk, M., et al., The ToxCast pipeline: updates to curve-fitting approaches and database structure. Front Toxicol, 2023. 5: p. 1275980.
+36.	Sheffield, T., et al., tcplfit2: an R-language general purpose concentration-response modeling package. Bioinformatics, 2022. 38(4): p. 1157-1158.
+37.	ChemExpo Knowledgebase v 0.1.1. 2023; Available from: https://comptox.epa.gov/chemexpo/.
+38.	Dionisio, K.L., et al., The Chemical and Products Database, a resource for exposure-relevant data on chemicals in consumer products. Sci Data, 2018. 5: p. 180125.
+39.	Olker, J.H., et al., The ECOTOXicology Knowledgebase: A Curated Database of Ecologically Relevant Toxicity Tests to Support Environmental Research and Risk Assessment. Environ Toxicol Chem, 2022. 41(6): p. 1520-1539.
+40.	Patlewicz, G. and I. Shah, Towards systematic read-across using Generalised Read-Across (GenRA). Comput Toxicol, 2023. 25: p. 1-15.
+41.	LaLone, C.A., et al., Editor's Highlight: Sequence Alignment to Predict Across Species Susceptibility (SeqAPASS): A Web-Based Tool for Addressing the Challenges of Cross-Species Extrapolation of Chemical Toxicity. Toxicol Sci, 2016. 153(2): p. 228-45.
+42.	Kruse, P., et al., ctxR: Utilities for Interacting with the 'CTX' APIs. 2024.
