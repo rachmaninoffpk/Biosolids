@@ -1,0 +1,18 @@
+1.	Williams, A.J., et al., The CompTox Chemistry Dashboard: a community data resource for environmental chemistry. J Cheminform, 2017. 9(1): p. 61.
+2.	Kruse, P., et al., ctxR: Utilities for Interacting with the 'CTX' APIs. 2024.
+3.	Approach to Biosolids Chemical Risk Assessment and Biosolids Tool.  [cited 2023 11/06/2023]; Available from: https://sab.epa.gov/ords/sab/f?p=100:18:7435319323204:::18:P18_ID:2610.
+4.	Feshuk, M., et al., The ToxCast pipeline: updates to curve-fitting approaches and database structure. Front Toxicol, 2023. 5: p. 1275980.
+5.	Pearce, R.G., et al., httk: R Package for High-Throughput Toxicokinetics. J Stat Softw, 2017. 79(4): p. 1-26.
+6.	Mansouri, K., et al., OPERA models for predicting physicochemical properties and environmental fate endpoints. J Cheminform, 2018. 10(1): p. 10.
+7.	Density in the Periodic Table of Elements.  September 7, 2023]; Available from: https://pubchem.ncbi.nlm.nih.gov/periodic-table/density/.
+8.	Struijs, J., SimpleTreat 4.0: a model to predict fate and emission of chemicals in wastewater treatment plants. Background report describing the equations, N.I.f.P.H.a.t. Environment, Editor. 2014, RIVM.
+9.	Warren J. Lyman, W.F.R., David H. Rosenblatt, Handbook of Chemical Property Estimation Methods. American Chemical Society. 960.
+10.	Distributed Structure-Searchable Toxicity (DSSTox) Database, U.S.E.P.A.C.f.C.T.a. Exposure, Editor. 2019.
+11.	EPA, U., Estimate Programs Interface Suite for Microsoft Windows. 2024, United States Environmental Protection Agency: Washington DC, USA.
+12.	WebTEST. 2024, United States Enivornmental Protection Agency.
+13.	Judson, R., ToxValDB, U.S.E.P.A.s.C.f.C.T.a. Exposure, Editor. 2022.
+14.	ORD, C.f.C.T.U.E., ToxCast Database: invitrodb version 4.1.
+15.	ChemExpo Knowledgebase v 0.1.1. 2023; Available from: https://comptox.epa.gov/chemexpo/.
+16.	Ring, C.L., et al., Consensus Modeling of Median Chemical Intake for the U.S. Population Based on Predictions of Exposure Pathways. Environ Sci Technol, 2019. 53(2): p. 719-732.
+17.	Phillips, K.A., et al., High-throughput screening of chemicals as functional substitutes using structure-based classification models. Green Chem, 2017. 19(4): p. 1063-1074.
+
