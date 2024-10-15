@@ -1,0 +1,18 @@
+1.	Basic Information about Biosolids. 1/18/2023 11/06/2023]; Available from: https://www.epa.gov/biosolids/basic-information-about-biosolids#basics.
+2.	2001 National Sewage Sludge Survey Report, U.E.O.o. Water, Editor. 2007: Washington, D.C.
+3.	Targeted National Sewage Sludge Survey 
+Sampling and Analysis Technical Report, U.E.O.o. Water, Editor. 2009: Washington, D.C.
+4.	Sewage Sludge Surveys. Available from: https://www.epa.gov/biosolids/sewage-sludge-surveys.
+5.	Biennial Reviews of Sewage Sludge Standards.  [cited 2023 10/25/2023]; Available from: https://www.epa.gov/biosolids/biennial-reviews-sewage-sludge-standards.
+6.	Richman, T., E. Arnold, and A.J. Williams, Curation of a list of chemicals in biosolids from EPA National Sewage Sludge Surveys & Biennial Review Reports. Scientific Data, 2022. 9(1).
+7.	About the Office of Water. 10/23/2023 [cited 2023 11/06/2023]; Available from: https://www.epa.gov/aboutepa/about-office-water.
+8.	Approach to Biosolids Chemical Risk Assessment and Biosolids Tool.  [cited 2023 11/06/2023]; Available from: https://sab.epa.gov/ords/sab/f?p=100:18:7435319323204:::18:P18_ID:2610.
+9.	Risk Assessment of Pollutants in Biosolids. 3/23/2023 [cited 2023 11/06/2023]; Available from: https://www.epa.gov/biosolids/risk-assessment-pollutants-biosolids#how.
+10.	Williams, A.J., et al., The CompTox Chemistry Dashboard: a community data resource for environmental chemistry. J Cheminform, 2017. 9(1): p. 61.
+11.	Djoumbou Feunang, Y., et al., ClassyFire: automated chemical classification with a comprehensive, computable taxonomy. J Cheminform, 2016. 8: p. 61.
+12.	Mansouri, K., et al., OPERA models for predicting physicochemical properties and environmental fate endpoints. J Cheminform, 2018. 10(1): p. 10.
+13.	Pearce, R.G., et al., httk: R Package for High-Throughput Toxicokinetics. J Stat Softw, 2017. 79(4): p. 1-26.
+14.	Kruse, P., et al., ctxR: Utilities for Interacting with the 'CTX' APIs. 2024.
+15.	Density in the Periodic Table of Elements.  September 7, 2023]; Available from: https://pubchem.ncbi.nlm.nih.gov/periodic-table/density/.
+16.	Struijs, J., SimpleTreat 4.0: a model to predict fate and emission of chemicals in wastewater treatment plants. Background report describing the equations, N.I.f.P.H.a.t. Environment, Editor. 2014, RIVM.
+17.	Warren J. Lyman, W.F.R., David H. Rosenblatt, Handbook of Chemical Property Estimation Methods. American Chemical Society. 960.
